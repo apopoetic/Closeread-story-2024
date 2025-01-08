@@ -28,8 +28,8 @@ showtext_auto()
 
 Bengaluru, also known as a city of thousand lakes, stands parched. This is the story of how a water-rich 'Kalyana-nagara' (blessed city) turned into a thirsty silicon valley -- a tale of *development* gone wrong. However, amidst the gloom, there is still a hope in government action and citizen activism.
 
-:::: {.cr-section}
-Bengaluru, a burgeoning metropolis in South India, possesses a rich history of culture and innovation. Initially a strategic military outpost, the city has undergone a remarkable transformation; emerging as a global technological hub, earning the prestigious title of "India's Silicon Valley." However, before assuming its contemporary guise, the city was celebrated for its serene lakes and lush gardens. These natural wonders attracted rulers from various dynasties, who, in turn, contributed significantly to the city's infrastructure, laying the foundation for its current trajectory towards modernity. @cr-intro
+:::: cr-section
+Bengaluru, a burgeoning metropolis in South India, possesses a rich history of culture and innovation. Initially a military outpost, the city has undergone a remarkable transformation; emerging as a global technological hub, earning the title of "India's Silicon Valley." However, before assuming its contemporary guise, the city was celebrated for its serene lakes and lush gardens. These natural wonders attracted rulers from various dynasties, who, in turn, contributed significantly to the city's infrastructure, laying the foundation for its current trajectory towards modernity. @cr-intro
 
 ::: {#cr-intro}
 ![](./graphics/vs.jpg)
@@ -38,97 +38,84 @@ Bengaluru, a burgeoning metropolis in South India, possesses a rich history of c
 
 ### A city of lakes amidst arid rocks
 
-:::: {.cr-section}
-However, here lies a paradox. The city of thousand lakes and garden is not naturally conducive to having lakes and gardens. [@cr-paradox]{pan-to="0%,-15%"}
+:::: cr-section
+However, here lies a paradox. The city of thousand lakes and gardens is not naturally conducive to having these blue and green spaces. [@cr-paradox]{pan-to="0%,-20%"}
 
 ::: {#cr-paradox}
 ![](./graphics/mgroad.jpg)
 :::
-
 ::::
 
-:::: {.cr-section}
+:::: cr-section
+Bengaluru is perched atop the Deccan Plateau of the southern part of India. @cr-deccan
 
-Bengaluru, is perched atop the Deccan Plateau of the southern part of India. @cr-deccan
-
-
-*Deccan plateau:* <br>
-A 422,000 km^2^ rocky landmass, is shaped by millions of years of geological processes. The region, steeped in cultural history, is also origin of various music and dance forms like the Bharatanatyam and Kuchipudi, Carnatic music and Dravidian rock architecture.
-[@cr-deccan]{pan-to="0%,-50%"}
+*Deccan plateau:* <br> A 422,000 km^2^ rocky landmass, is shaped by millions of years of geological processes. The region, steeped in cultural history, is also the birthplace of where various music and dance forms like the Bharatanatyam and Kuchipudi, Carnatic music and Dravidian rock architecture. [@cr-deccan]{pan-to="0%,-50%"}
 
 ::: {#cr-deccan}
 ![](./graphics/deccan.webp)
 :::
 
-Though the Deccan feeds major perennial river system like Godavari, Kaveri, and Krishna, there is a pocket within the plateau that falls on the leeward side of the Western Ghats; a mountain range that blocks the monsoon clouds. By the time the monsoon air rise above the Western Ghats, they are already dry; creating a pocket of semi arid region towards the centre of the plateau. 
-
+Though the Deccan feeds major perennial river systems like Godavari, Kaveri, and Krishna, there is a pocket within the plateau that falls on the leeward side of the Western Ghats; a mountain range that blocks the monsoon clouds. By the time the monsoon air rise above the Western Ghats, they are already dry; creating a pocket of semi arid region towards the centre of the plateau.
 ::::
 
-:::: {.cr-section}
-
-Bengaluru resides in this pocket of semi-arid part of the Deccan. @cr-rainshadow
+:::: cr-section
+Bengaluru resides in this semi-arid pocket of the plateau. @cr-rainshadow
 
 ::: {#cr-rainshadow}
-![](./graphics/blr_deccan.webp) 
+![](./graphics/blr_deccan.webp)
 :::
 
-No perennial river, nor a natural lake. Neither an ocean nearby.
-Yet there exists a "city of thousand lakes".
+No perennial river, nor a natural lake. Neither an ocean nearby. Yet there exists a "city of thousand lakes".
 ::::
 
-:::: {.cr-section}
+:::: cr-section
 India has a tradition and history of storing rainwater in step wells, reservoirs, and lakes. @cr-kg
-So, when Kempe Gowda I established the city of Bengaluru in the 16th century, he too realised the importance of rainwater harvesting. Therefore, Kempe Gowda I and many other rulers and chieftains of the city took it upon themselves to create a network of lakes or water reservoirs that were connected to each other. 
+
+Even in Bengaluru various ruling dynasties had made artificial lakes and channels that connected them. So, when Kempe Gowda I established the city of Bengaluru in the 16^th^ century, the lakes system of Bengaluru were further strengthened and he continued to be their patron.
 
 ::: {#cr-kg}
 ![](./graphics/kg_2.webp)
 :::
-
 ::::
 
-:::: {.cr-section}
-An ingenuine system was invented wherein the slope of the city was harvested to fill one-lake-after-the other. Hence, the lakes not only provided water when the rains were scant, they also acted as flood control system when heavens poured in excess. [@cr-blr]{pan-to="0%,-20%"scale-by="0.75"}
+:::: cr-section
+An clever system was thus invented wherein the slope of the city was harvested to fill one-lake-after-the other. Hence, the lakes not only provided water when the rains were scant, they also acted as flood control system when heavens poured in excess. [@cr-blr]{scale-by="1" pan-to="0%, -30%"}
 
 ::: {#cr-blr}
 ![](./graphics/stamen_blr.webp)
 :::
-
 ::::
 
-:::: {.cr-section}
-However, the city exploded and grew well beyond anybody's imagination [@cr-growth]{pan-to="0%, -15%" scale-by="0.75"}
+:::: cr-section
+However, the city exploded and grew well beyond anybody's imagination [@cr-growth]{scale-by="0.6" pan-to="0%, -20%"}
 
 ::: {#cr-growth}
 ![](./graphics/old_gif.gif)
 :::
 
-And in this growth, the lakes became casaulty.
-The lakes and their connecting channels now lie buried under the concrete -- an indicator we now a days use for growth. 
-Once a haven for rulers enchanted by its verdant gardens, the city now beckons immigrants with its sprawling IT parks. Most residents of the city are now hailed as techies (the ones who are professionals in the technology business).
+And in this growth, the lakes became casaulty. The lakes and their connecting channels now lie buried under the concrete -- an indicator for growth of civilizations. Once a haven for rulers enchanted by its verdant gardens, the city now beckons immigrants with its sprawling IT parks. Most residents of the city are now hailed as techies (the ones who are professionals in the technology business).
 ::::
 
-:::: {.cr-section}
-It doesn't matter how fast the silicone chip works. The person running that computer thrives on food and water. And, in the summer of 2024, that person stood parched. The city was experiencing its worst drought ever. @cr-dry
+:::: cr-section
+It doesn't matter how fast the silicon chip works. The person running that computer thrives on food and water. And, in the summer of 2024, that person stood parched. The city was experiencing its worst drought ever. [@cr-dry]{scale-by="0.6"}
 
 ::: {#cr-dry}
 ![](./graphics/dry.webp)
 :::
 ::::
 
-:::: {.cr-section}
+:::: cr-section
 Later, in the same year, Bengaluru was flooded when the rains arrived. @cr-flood
 
 ::: {#cr-flood}
 ![](./graphics/flood.jpg)
 :::
-The city's concrete expansion and lack of lakes hinder groundwater recharge, leading to the drying up of aquifers and water reservoir. The lakes also lack water due to blocked inter-lake conduits, which also prevents water from flowing into subsequent lakes in the event of heavy downpour. 
-The city, was surely shaken. Schools shut down, employees forced to work from home, real estate prices dropping, and black marketing of water!
+
+The city's concrete expansion and lack of lakes hinder groundwater recharge, leading to the drying up of aquifers and water reservoir. The lakes also lack water due to blocked inter-lake conduits, which also prevents water from flowing into subsequent lakes in the event of heavy downpour. The city, was surely shaken. Schools shut down, employees forced to work from home, real estate prices dropping, and black marketing of water!
 ::::
 
-:::: {.cr-section}
-The water crisis in Bengaluru is not new and was foreseen a long time ago. The administration and the members of the civil society have been working hard to rejuvenate the lost lakes -- at least the ones that still can. The lake channels are being taken seriously and being freed from the claws of modernisation.
- [@cr-my_lake]{pan-to="0%, -25%"}
-
+:::: cr-section
+The water crisis in Bengaluru is not new and was foreseen a long time ago. The administration and the members of the civil society have been working hard to rejuvenate the lost lakes -- at least the ones that still can. The lake channels are being taken seriously and being freed from the claws of modernisation. [@cr-my_lake]{pan-to="0%, -25%"}
 
 Lake near the author's home was also rejuvinated, which now invites wildlife and the community loves it.
 
@@ -137,28 +124,20 @@ In many places, where the lakes were revived, the dead bore wells are now flush 
 ::: {#cr-my_lake}
 ![](./graphics/my_lake.jpg)
 :::
-
 ::::
 
 :::: {.cr-section layout="overlay-center"}
-
-Amidst the gloom of Climate Change and uncontrolled growth of the city, the citizen's activist groups have emerged as big hope.
-Academic Institutions such as the Azim Premji University, are also contributing to the science of lake rejuvenation and ecosystem. @cr-hope
+Amidst the gloom of Climate Change and uncontrolled growth of the city, the citizen's activist groups have emerged as big hope. Academic Institutions such as the Azim Premji University, are also contributing to the science of lake rejuvenation and ecosystem. @cr-hope
 
 ::: {#cr-hope}
 ![](./graphics/hope.webp)
 :::
-
 ::::
 
 :::: cr-section
-The water crisis, that was once only talked about, had this time hit every home in Bengaluru -- opening the eyes of a common city resident. It can only be hoped that the future will be better. @cr-varthur
-Though, the struggle between urbanization and nature should not exist, it still consumes common sense everywhere on this planet. 
-The story of Bengaluru is not about just one city. It is a crisis being replicated by the human greed everywhere. 
-[@cr-varthur]{pan-to="0%, -20%"}
+The water crisis, that was once only talked about, had this time hit every home in Bengaluru -- opening the eyes of common city residents. It can only be hoped that the future will be better. @cr-varthur Though, the struggle between urbanization and nature should not exist, it still consumes common sense everywhere on this planet. The story of Bengaluru is not about just one city. It is a crisis being replicated by the human greed everywhere. [@cr-varthur]{pan-to="0%, -25%"}
 
 Author: Ankur Jamwal
-
 
 ::: {#cr-varthur}
 ![](./graphics/varthur.jpg)
