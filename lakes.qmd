@@ -79,7 +79,9 @@ Even in Bengaluru various ruling dynasties had made artificial lakes and channel
 ::::
 
 :::: cr-section
-An clever system was thus invented wherein the slope of the city was harvested to fill one-lake-after-the other. Hence, the lakes not only provided water when the rains were scant, they also acted as flood control system when heavens poured in excess. [@cr-blr]{scale-by="1" pan-to="0%, -30%"}
+A clever system was thus invented wherein the slope of the city was harvested to fill one-lake-after-the other. @cr-blr
+
+Hence, the lakes not only provided water when the rains were scant, they also acted as flood control system when heavens poured in excess. [@cr-blr]{scale-by="1" pan-to="0%, -30%"}
 
 ::: {#cr-blr}
 ![](./graphics/stamen_blr.webp)
@@ -135,9 +137,9 @@ Amidst the gloom of Climate Change and uncontrolled growth of the city, the citi
 ::::
 
 :::: cr-section
-The water crisis, that was once only talked about, had this time hit every home in Bengaluru -- opening the eyes of common city residents. It can only be hoped that the future will be better. @cr-varthur Though, the struggle between urbanization and nature should not exist, it still consumes common sense everywhere on this planet. The story of Bengaluru is not about just one city. It is a crisis being replicated by the human greed everywhere. [@cr-varthur]{pan-to="0%, -25%"}
+The water crisis, that was once only talked about, had this time hit every home in Bengaluru -- opening the eyes of common city residents. It can only be hoped that the future will be better. @cr-varthur Though, the struggle between urbanization and nature should not exist, it still consumes common sense everywhere on this planet. The story of Bengaluru is not about just one city. It is a crisis being replicated by the human greed everywhere. @cr-varthur
 
-Author: Ankur Jamwal
+Author: Ankur Jamwal [@cr-varthur]{pan-to="0%, -25%"}
 
 ::: {#cr-varthur}
 ![](./graphics/varthur.jpg)
